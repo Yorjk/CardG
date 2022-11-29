@@ -1,1 +1,1 @@
-# CardG
+# Skypro - is second project
